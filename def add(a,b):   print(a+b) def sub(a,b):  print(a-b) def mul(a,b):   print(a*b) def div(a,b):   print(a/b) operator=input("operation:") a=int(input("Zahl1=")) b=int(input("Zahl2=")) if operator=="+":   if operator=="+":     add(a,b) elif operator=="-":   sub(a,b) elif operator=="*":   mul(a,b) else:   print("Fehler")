@@ -1,0 +1,20 @@
+def add(a,b):
+  print(a+b)
+def sub(a,b):
+ print(a-b)
+def mul(a,b):
+  print(a*b)
+def div(a,b):
+  print(a/b)
+operator=input("operation:")
+a=int(input("Zahl1="))
+b=int(input("Zahl2="))
+if operator=="+":
+  if operator=="+":
+    add(a,b)
+elif operator=="-":
+  sub(a,b)
+elif operator=="*":
+  mul(a,b)
+else:
+  print("Fehler")
