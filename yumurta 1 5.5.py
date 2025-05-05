@@ -1,0 +1,1 @@
+toplam_yumurta = int(input("Bu sabah kaç yumurta topladınız? "))
